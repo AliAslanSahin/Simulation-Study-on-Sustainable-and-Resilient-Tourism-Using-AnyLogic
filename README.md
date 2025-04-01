@@ -19,7 +19,7 @@ Tools Used:
 
 Academic Context:
 
-This project is part of my studies in Tourism Business Administration at Boğaziçi University. It is intended to explore how simulation and system dynamics can be applied to improve the tourism sector’s resilience to various pressures.
+This project is part of my studies in Tourism Administration at Boğaziçi University. It is intended to explore how simulation and system dynamics can be applied to improve the tourism sector’s resilience to various pressures.
 
 Repository Contents:
 	•	Simulation Models: Files related to AnyLogic simulations of sustainable and resilient tourism.
